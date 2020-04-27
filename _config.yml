@@ -1,5 +1,5 @@
-layout: sidebar
-style: light
+layout: stacked
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -7,6 +7,7 @@ plugins:
   - jemoji
 
 permalink: /:year/:month/:day/:title/
+
 
 defaults:
   -
@@ -26,16 +27,16 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+    # - Thinkful
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: jonathon-rylatt-7018481a5
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
