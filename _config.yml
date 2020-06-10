@@ -28,6 +28,7 @@ projects:
     forks: true
     projects:
     - Thinkful
+    - SupervisedLearning
 
 social_media:
   # behance: your_username
